@@ -244,11 +244,12 @@
 .gallery-photo-card picture {
   display: block;
   width: 100%;
+  aspect-ratio: 4 / 3;            /* lock the wrapper so img can fill */
   overflow: hidden;
 }
 .gallery-photo-card picture img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 100%;                    /* fill wrapper instead of using its own aspect-ratio */
   object-fit: cover;
   transition: transform 320ms ease;
 }
