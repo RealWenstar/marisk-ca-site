@@ -196,4 +196,10 @@ export function getPictureProps(key, opts = {}) {
  */
 export function getOriginalUrl(key) {
   const entry = findEntry(key);
-  if (!entry) return n
+  if (!entry) return null;
+  const fallback = pickFallback(entry.variants_generated || []);
+  if (!fallback) return null;
+  return `${PUBLIC_GALLERY_PREFIX}${fallback.filename}`;
+}
+
+export const __manifest = manifestJson; // exported for tests / debugging

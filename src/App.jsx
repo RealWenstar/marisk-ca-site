@@ -211,3 +211,7 @@ function App() {
         <p>Calgary landscape design, construction, maintenance, and specialty site work.</p>
       </footer>
     </div>
+  );
+}
+
+export default App;
