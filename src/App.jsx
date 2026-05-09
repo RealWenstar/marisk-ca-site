@@ -64,7 +64,7 @@ function App() {
         <a className="site-brand" href="#top">
           <img
             className="site-brand-logo"
-            src="/images/logo/marisk-logo.svg"
+            src={`${import.meta.env.BASE_URL}images/logo/marisk-logo.svg`}
             alt="Marisk Services Inc."
             width="600"
             height="220"
@@ -211,7 +211,3 @@ function App() {
         <p>Calgary landscape design, construction, maintenance, and specialty site work.</p>
       </footer>
     </div>
-  );
-}
-
-export default App;

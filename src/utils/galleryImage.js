@@ -30,7 +30,10 @@ import manifestJson from "../../public/images/gallery-final/MANIFEST_2026-05-08.
  *  @property {ManifestVariant[]} variants_generated
  */
 
-const PUBLIC_GALLERY_PREFIX = "/images/gallery-final/";
+// BASE_URL is the configured Vite base (e.g. "/marisk-ca-site/" on Pages,
+// "/" locally). It always has a trailing slash, so we strip the leading
+// slash from the rest of the path to avoid double slashes.
+const PUBLIC_GALLERY_PREFIX = `${import.meta.env.BASE_URL}images/gallery-final/`;
 
 // Format preference cascades from most efficient → most compatible.
 const FORMAT_ORDER = ["avif", "webp", "jpg"];
@@ -193,10 +196,4 @@ export function getPictureProps(key, opts = {}) {
  */
 export function getOriginalUrl(key) {
   const entry = findEntry(key);
-  if (!entry) return null;
-  const fallback = pickFallback(entry.variants_generated || []);
-  if (!fallback) return null;
-  return `${PUBLIC_GALLERY_PREFIX}${fallback.filename}`;
-}
-
-export const __manifest = manifestJson; // exported for tests / debugging
+  if (!entry) return n
