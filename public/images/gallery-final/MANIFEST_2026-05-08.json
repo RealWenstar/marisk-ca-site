@@ -1,0 +1,2603 @@
+[
+  {
+    "rank": 0,
+    "category": "hero",
+    "source": "F:\\\\Users\\\\Wenstar\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\...\\\\uploads\\\\50572f24-2C51F80D8A8549CD8BEC828DC067344C.png",
+    "target": "mrsk-hero-cinematic.jpg",
+    "alt": "Calgary South Health Campus aerial \u2014 cinematic restyle reference",
+    "caption": "Cinematic restyle reference: Calgary South Health Campus aerial in golden-hour light, Rocky Mountains backdrop. (Bogdan ChatGPT iOS, 2026-04, then PIL Lanczos 4x upscale + UnsharpMask 2026-05-08.)",
+    "responsive_variants_planned": [
+      "1280w",
+      "1920w",
+      "2560w"
+    ],
+    "formats_planned": [
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "2C51F80D8A8549CD8BEC828DC067344C.png",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "hero"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\\\projects\\\\Marisk.ca\\\\site\\\\frontend\\\\public\\\\images\\\\gallery-final\\\\mrsk-hero-cinematic-1280w.jpg",
+        "filename": "mrsk-hero-cinematic-1280w.jpg",
+        "width": 1280,
+        "height": 719,
+        "format": "jpg",
+        "size_bytes": 375212,
+        "size_kb": 366.4
+      },
+      {
+        "path": "F:\\\\projects\\\\Marisk.ca\\\\site\\\\frontend\\\\public\\\\images\\\\gallery-final\\\\mrsk-hero-cinematic-1280w.webp",
+        "filename": "mrsk-hero-cinematic-1280w.webp",
+        "width": 1280,
+        "height": 719,
+        "format": "webp",
+        "size_bytes": 311668,
+        "size_kb": 304.4
+      },
+      {
+        "path": "F:\\\\projects\\\\Marisk.ca\\\\site\\\\frontend\\\\public\\\\images\\\\gallery-final\\\\mrsk-hero-cinematic-1920w.jpg",
+        "filename": "mrsk-hero-cinematic-1920w.jpg",
+        "width": 1920,
+        "height": 1079,
+        "format": "jpg",
+        "size_bytes": 695467,
+        "size_kb": 679.2
+      },
+      {
+        "path": "F:\\\\projects\\\\Marisk.ca\\\\site\\\\frontend\\\\public\\\\images\\\\gallery-final\\\\mrsk-hero-cinematic-1920w.webp",
+        "filename": "mrsk-hero-cinematic-1920w.webp",
+        "width": 1920,
+        "height": 1079,
+        "format": "webp",
+        "size_bytes": 557358,
+        "size_kb": 544.3
+      },
+      {
+        "path": "F:\\\\projects\\\\Marisk.ca\\\\site\\\\frontend\\\\public\\\\images\\\\gallery-final\\\\mrsk-hero-cinematic-2560w.jpg",
+        "filename": "mrsk-hero-cinematic-2560w.jpg",
+        "width": 6688,
+        "height": 3760,
+        "format": "jpg",
+        "size_bytes": 4701199,
+        "size_kb": 4591.0
+      },
+      {
+        "path": "F:\\\\projects\\\\Marisk.ca\\\\site\\\\frontend\\\\public\\\\images\\\\gallery-final\\\\mrsk-hero-cinematic-2560w.webp",
+        "filename": "mrsk-hero-cinematic-2560w.webp",
+        "width": 6688,
+        "height": 3760,
+        "format": "webp",
+        "size_bytes": 2590792,
+        "size_kb": 2530.1
+      }
+    ],
+    "note": "Cinematic restyle of hospital aerial. AI-restyled by Bogdan via ChatGPT iOS app on 2026-04-28; PIL upscale to 2K applied 2026-05-08. May be replaced once Topaz Photo AI is installed for AI-grade upscale."
+  },
+  {
+    "rank": 1,
+    "category": "hero",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\foothills hospital (green roof and artificial grass)\\IMG_3736.JPG",
+    "target": "mrsk-hero-0001.jpg",
+    "alt": "Foothills Hospital commercial green roof, mature sedum plantings",
+    "caption": "Foothills Hospital green roof \u2014 one of Marisk's signature commercial installations, with mature sedum and gravel service paths.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_3736.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "hero"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-480w.avif",
+        "filename": "mrsk-hero-0001-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 63520,
+        "size_kb": 62.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-480w.webp",
+        "filename": "mrsk-hero-0001-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 71374,
+        "size_kb": 69.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-480w.jpg",
+        "filename": "mrsk-hero-0001-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 86561,
+        "size_kb": 84.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-768w.avif",
+        "filename": "mrsk-hero-0001-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 158628,
+        "size_kb": 154.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-768w.webp",
+        "filename": "mrsk-hero-0001-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 179762,
+        "size_kb": 175.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-768w.jpg",
+        "filename": "mrsk-hero-0001-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 216173,
+        "size_kb": 211.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-1280w.avif",
+        "filename": "mrsk-hero-0001-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 441773,
+        "size_kb": 431.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-1280w.webp",
+        "filename": "mrsk-hero-0001-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 501862,
+        "size_kb": 490.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-1280w.jpg",
+        "filename": "mrsk-hero-0001-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 594446,
+        "size_kb": 580.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-1920w.avif",
+        "filename": "mrsk-hero-0001-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 950663,
+        "size_kb": 928.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-1920w.webp",
+        "filename": "mrsk-hero-0001-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 1085486,
+        "size_kb": 1060.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-1920w.jpg",
+        "filename": "mrsk-hero-0001-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 1280897,
+        "size_kb": 1250.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0001-original.jpg",
+        "filename": "mrsk-hero-0001-original.jpg",
+        "width": 4032,
+        "height": 3024,
+        "format": "jpg",
+        "size_bytes": 5450282,
+        "size_kb": 5322.5,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQIF/8QAJxAAAQQCAQIFBQAAAAAAAAAAAQACAxEEMSESUQUjQUJxYYHB0fD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAbEQEBAQEAAwEAAAAAAAAAAAABAAIDERIhMf/aAAwDAQACEQMRAD8AlhOlZlHyIbr3GiedUk4eIJMZsrnkdRqgPrSdlRgRsN25mvuk9+mXKFDll9hoXCi0nQ9Ug2Xh98dq2VVK0uHHbskO6g8cABo3/aWaM1uzCwx4cLa038EpeU0uaWtBPx8lCEnX3zHz+lmPCmlaBQY3u79LePwuJshMhL3N4F8CkIU85Co6W//Z",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      4032,
+      3024
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 2,
+    "category": "hero",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\BOW VALLEY 2012\\Bow Valley 3.JPG",
+    "target": "mrsk-hero-0002.jpg",
+    "alt": "Bow Valley green roof, downtown Calgary skyline",
+    "caption": "Bow Valley green roof in downtown Calgary \u2014 rooftop sedum plantings against the city skyline.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "Bow Valley 3.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "hero"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-480w.avif",
+        "filename": "mrsk-hero-0002-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 36522,
+        "size_kb": 35.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-480w.webp",
+        "filename": "mrsk-hero-0002-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 46100,
+        "size_kb": 45.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-480w.jpg",
+        "filename": "mrsk-hero-0002-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 61876,
+        "size_kb": 60.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-768w.avif",
+        "filename": "mrsk-hero-0002-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 82654,
+        "size_kb": 80.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-768w.webp",
+        "filename": "mrsk-hero-0002-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 104172,
+        "size_kb": 101.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-768w.jpg",
+        "filename": "mrsk-hero-0002-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 146157,
+        "size_kb": 142.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-1280w.avif",
+        "filename": "mrsk-hero-0002-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 190061,
+        "size_kb": 185.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-1280w.webp",
+        "filename": "mrsk-hero-0002-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 247794,
+        "size_kb": 242.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-1280w.jpg",
+        "filename": "mrsk-hero-0002-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 362589,
+        "size_kb": 354.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-1920w.avif",
+        "filename": "mrsk-hero-0002-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 352300,
+        "size_kb": 344.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-1920w.webp",
+        "filename": "mrsk-hero-0002-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 468414,
+        "size_kb": 457.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-1920w.jpg",
+        "filename": "mrsk-hero-0002-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 725272,
+        "size_kb": 708.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-hero-0002-original.jpg",
+        "filename": "mrsk-hero-0002-original.jpg",
+        "width": 4000,
+        "height": 3000,
+        "format": "jpg",
+        "size_bytes": 2726728,
+        "size_kb": 2662.8,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUC/8QAIhAAAQQCAgMAAwAAAAAAAAAAAQACAxEEEiExBSJRFIGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAFhEBAQEAAAAAAAAAAAAAAAAAABET/9oADAMBAAIRAxEAPwDTZl5B8LLkuLHTNBIpvHFcUsg+ey+N4YDfVsKa/IlDdRI4N+WqdllqQz4nPflzS7wQxasBtg7srOPk8fX2wIAHceryLTLJ3R3o8tvulU8BxJLQf0roQ1sSLofxFnu0IVaxBd9K5LyO7r7aEKD/2Q==",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      4000,
+      3000
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 3,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\foothills hospital (green roof and artificial grass)\\IMG_3262.JPG",
+    "target": "mrsk-green-roof-0001.jpg",
+    "alt": "Foothills Hospital commercial green roof, wide angle",
+    "caption": "Wide-angle view of the Foothills Hospital green roof, showing the planting field and gravel service paths.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_3262.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-480w.avif",
+        "filename": "mrsk-green-roof-0001-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 38306,
+        "size_kb": 37.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-480w.webp",
+        "filename": "mrsk-green-roof-0001-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 49452,
+        "size_kb": 48.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-480w.jpg",
+        "filename": "mrsk-green-roof-0001-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 66406,
+        "size_kb": 64.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-768w.avif",
+        "filename": "mrsk-green-roof-0001-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 77422,
+        "size_kb": 75.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-768w.webp",
+        "filename": "mrsk-green-roof-0001-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 104398,
+        "size_kb": 102.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-768w.jpg",
+        "filename": "mrsk-green-roof-0001-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 149988,
+        "size_kb": 146.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-1280w.avif",
+        "filename": "mrsk-green-roof-0001-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 168038,
+        "size_kb": 164.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-1280w.webp",
+        "filename": "mrsk-green-roof-0001-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 232376,
+        "size_kb": 226.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-1280w.jpg",
+        "filename": "mrsk-green-roof-0001-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 360373,
+        "size_kb": 351.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-1920w.avif",
+        "filename": "mrsk-green-roof-0001-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 313866,
+        "size_kb": 306.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-1920w.webp",
+        "filename": "mrsk-green-roof-0001-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 438400,
+        "size_kb": 428.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-1920w.jpg",
+        "filename": "mrsk-green-roof-0001-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 719491,
+        "size_kb": 702.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0001-original.jpg",
+        "filename": "mrsk-green-roof-0001-original.jpg",
+        "width": 4032,
+        "height": 3024,
+        "format": "jpg",
+        "size_bytes": 3038488,
+        "size_kb": 2967.3,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EACgQAAIBAwIFAwUAAAAAAAAAAAECAwARIQRBBRITMVEiMmFxkaGx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGBEBAQADAAAAAAAAAAAAAAAAAAERITH/2gAMAwEAAhEDEQA/AKYpBBqka905w4PfDjP5B+9LxTpmw6bIPJUjsai05kaXTQcwZo5emb9iMMp+mBVvFwxKswXJ2LeRVom63NIrpvgjyPNLI9xnYVPFIRqpUkVR6bqVv/fFNI1rD4oU4ngmtxNtQi3VIjzZ3Hb91VrtQZu6rYHFr7EUUUs6C9Z+91kHstk22rNm9TFvTY2z4ooqUo//2Q==",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      4032,
+      3024
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 4,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\foothills hospital (green roof and artificial grass)\\IMG_3800.JPG",
+    "target": "mrsk-green-roof-0002.jpg",
+    "alt": "Foothills Hospital green roof, alternate angle",
+    "caption": "Alternate angle of the Foothills Hospital green roof \u2014 sedum mat texture and rooftop hardware.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_3800.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-480w.avif",
+        "filename": "mrsk-green-roof-0002-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 70157,
+        "size_kb": 68.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-480w.webp",
+        "filename": "mrsk-green-roof-0002-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 79792,
+        "size_kb": 77.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-480w.jpg",
+        "filename": "mrsk-green-roof-0002-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 95730,
+        "size_kb": 93.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-768w.avif",
+        "filename": "mrsk-green-roof-0002-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 171145,
+        "size_kb": 167.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-768w.webp",
+        "filename": "mrsk-green-roof-0002-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 195168,
+        "size_kb": 190.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-768w.jpg",
+        "filename": "mrsk-green-roof-0002-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 236137,
+        "size_kb": 230.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-1280w.avif",
+        "filename": "mrsk-green-roof-0002-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 449438,
+        "size_kb": 438.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-1280w.webp",
+        "filename": "mrsk-green-roof-0002-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 514776,
+        "size_kb": 502.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-1280w.jpg",
+        "filename": "mrsk-green-roof-0002-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 623360,
+        "size_kb": 608.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-1920w.avif",
+        "filename": "mrsk-green-roof-0002-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 947899,
+        "size_kb": 925.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-1920w.webp",
+        "filename": "mrsk-green-roof-0002-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 1077834,
+        "size_kb": 1052.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-1920w.jpg",
+        "filename": "mrsk-green-roof-0002-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 1319115,
+        "size_kb": 1288.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0002-original.jpg",
+        "filename": "mrsk-green-roof-0002-original.jpg",
+        "width": 4032,
+        "height": 3024,
+        "format": "jpg",
+        "size_bytes": 5699311,
+        "size_kb": 5565.7,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACcQAAICAQMCBQUAAAAAAAAAAAECAxEAEiExBBMiUWFxwSNBQ6Gx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARAiH/2gAMAwEAAhEDEQA/ANMMqToQ8cQcbH6VEet2Mh0xMXdkaWRu2pADEHfj7YzHTPHPGSFk8LV+jkZPzKKFyC69r+cx04bZ5Ncockkjc7k1iOzLw3iqqr+5VkGncX6ZM6zxuOcAnSrJ1ZZJlCgCxIB5Y0MomnlU6g2q0Cmr2usMMrSnGZadLYFGPn85nnRgCq2CtkKLo+2GGT9gekw6X//Z",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      4032,
+      3024
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 5,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\BOW VALLEY 2012\\IMG_1108.JPG",
+    "target": "mrsk-green-roof-0003.jpg",
+    "alt": "Bow Valley commercial green roof, urban setting",
+    "caption": "Bow Valley green roof, different season \u2014 sedum plantings against downtown infrastructure.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_1108.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-480w.avif",
+        "filename": "mrsk-green-roof-0003-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 39129,
+        "size_kb": 38.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-480w.webp",
+        "filename": "mrsk-green-roof-0003-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 48114,
+        "size_kb": 47.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-480w.jpg",
+        "filename": "mrsk-green-roof-0003-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 63671,
+        "size_kb": 62.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-768w.avif",
+        "filename": "mrsk-green-roof-0003-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 90961,
+        "size_kb": 88.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-768w.webp",
+        "filename": "mrsk-green-roof-0003-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 109680,
+        "size_kb": 107.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-768w.jpg",
+        "filename": "mrsk-green-roof-0003-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 150115,
+        "size_kb": 146.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-1280w.avif",
+        "filename": "mrsk-green-roof-0003-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 215001,
+        "size_kb": 210.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-1280w.webp",
+        "filename": "mrsk-green-roof-0003-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 263298,
+        "size_kb": 257.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-1280w.jpg",
+        "filename": "mrsk-green-roof-0003-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 371013,
+        "size_kb": 362.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-1920w.avif",
+        "filename": "mrsk-green-roof-0003-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 404725,
+        "size_kb": 395.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-1920w.webp",
+        "filename": "mrsk-green-roof-0003-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 502234,
+        "size_kb": 490.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-1920w.jpg",
+        "filename": "mrsk-green-roof-0003-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 740629,
+        "size_kb": 723.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0003-original.jpg",
+        "filename": "mrsk-green-roof-0003-original.jpg",
+        "width": 4000,
+        "height": 3000,
+        "format": "jpg",
+        "size_bytes": 2707741,
+        "size_kb": 2644.3,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIDAAQREyExEhRRBUFCUoGRsfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AHt2rRq5DKqtjk5bIHJpZbTTdtP3sis7ZCjI4xVGtr5bU6vPn71GM8VFwtis5CgEoUtnfJJ2p36aYrS3ZHljBZy2B7VkYVMMRllCDk0kKsuLVHbrDFH+pf7eshkmt8i4HUmdpFH7FFFaqR0LiFgGMoCH5YpxYW2nFqOuHcfgUUUhX//Z",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      4000,
+      3000
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 6,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\Green roof  Peter Lougheed Hospital\\Green roof. P.L. Hospital.jpg",
+    "target": "mrsk-green-roof-0004.jpg",
+    "alt": "Peter Lougheed Hospital commercial green roof installation",
+    "caption": "Peter Lougheed Hospital green roof \u2014 sedum plantings around service hatches and building facade.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "Green roof. P.L. Hospital.jpg",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-480w.avif",
+        "filename": "mrsk-green-roof-0004-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 72312,
+        "size_kb": 70.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-480w.webp",
+        "filename": "mrsk-green-roof-0004-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 79412,
+        "size_kb": 77.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-480w.jpg",
+        "filename": "mrsk-green-roof-0004-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 90905,
+        "size_kb": 88.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-768w.avif",
+        "filename": "mrsk-green-roof-0004-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 173573,
+        "size_kb": 169.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-768w.webp",
+        "filename": "mrsk-green-roof-0004-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 192948,
+        "size_kb": 188.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-768w.jpg",
+        "filename": "mrsk-green-roof-0004-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 219862,
+        "size_kb": 214.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-1280w.avif",
+        "filename": "mrsk-green-roof-0004-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 0,
+        "size_kb": 0.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-1280w.webp",
+        "filename": "mrsk-green-roof-0004-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 460906,
+        "size_kb": 450.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-1280w.jpg",
+        "filename": "mrsk-green-roof-0004-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 547131,
+        "size_kb": 534.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-1920w.avif",
+        "filename": "mrsk-green-roof-0004-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 726547,
+        "size_kb": 709.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-1920w.webp",
+        "filename": "mrsk-green-roof-0004-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 859378,
+        "size_kb": 839.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-1920w.jpg",
+        "filename": "mrsk-green-roof-0004-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 1064460,
+        "size_kb": 1039.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0004-original.jpg",
+        "filename": "mrsk-green-roof-0004-original.jpg",
+        "width": 4000,
+        "height": 3000,
+        "format": "jpg",
+        "size_bytes": 3611093,
+        "size_kb": 3526.5,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECBAUG/8QAJBAAAQQABQQDAAAAAAAAAAAAAQACAxEFEhMhUSIxMkFCYXL/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8A0mYlKBYABPJUm4pNloxsA97rKa+ti2rO1papDxmY6uKQ7SJ2NmPFhIeqJ4/LgrDMQhcfJ4PBC51xAdyLUruiHOFfaRyo6JY6XCsZJHuOUhoF9+E9STxzAj2UIUJJh4IqUujBPyq1Ig97QhbY1ts//9k=",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      4000,
+      3000
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 7,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\Special GreenRoof Projects (downtown and other)\\SAM_2077.jpg",
+    "target": "mrsk-green-roof-0005.jpg",
+    "alt": "Downtown Calgary commercial green roof, sedum planting",
+    "caption": "Downtown special-projects green roof \u2014 sedum plantings and rooftop hardware against Calgary skyline.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "SAM_2077.jpg",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-480w.avif",
+        "filename": "mrsk-green-roof-0005-480w.avif",
+        "width": 480,
+        "height": 270,
+        "format": "avif",
+        "size_bytes": 28641,
+        "size_kb": 28.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-480w.webp",
+        "filename": "mrsk-green-roof-0005-480w.webp",
+        "width": 480,
+        "height": 270,
+        "format": "webp",
+        "size_bytes": 34216,
+        "size_kb": 33.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-480w.jpg",
+        "filename": "mrsk-green-roof-0005-480w.jpg",
+        "width": 480,
+        "height": 270,
+        "format": "jpg",
+        "size_bytes": 47958,
+        "size_kb": 46.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-768w.avif",
+        "filename": "mrsk-green-roof-0005-768w.avif",
+        "width": 768,
+        "height": 432,
+        "format": "avif",
+        "size_bytes": 61805,
+        "size_kb": 60.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-768w.webp",
+        "filename": "mrsk-green-roof-0005-768w.webp",
+        "width": 768,
+        "height": 432,
+        "format": "webp",
+        "size_bytes": 75974,
+        "size_kb": 74.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-768w.jpg",
+        "filename": "mrsk-green-roof-0005-768w.jpg",
+        "width": 768,
+        "height": 432,
+        "format": "jpg",
+        "size_bytes": 109390,
+        "size_kb": 106.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-1280w.avif",
+        "filename": "mrsk-green-roof-0005-1280w.avif",
+        "width": 1280,
+        "height": 720,
+        "format": "avif",
+        "size_bytes": 141373,
+        "size_kb": 138.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-1280w.webp",
+        "filename": "mrsk-green-roof-0005-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "format": "webp",
+        "size_bytes": 175480,
+        "size_kb": 171.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-1280w.jpg",
+        "filename": "mrsk-green-roof-0005-1280w.jpg",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "size_bytes": 267202,
+        "size_kb": 260.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-1920w.avif",
+        "filename": "mrsk-green-roof-0005-1920w.avif",
+        "width": 1920,
+        "height": 1080,
+        "format": "avif",
+        "size_bytes": 260791,
+        "size_kb": 254.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-1920w.webp",
+        "filename": "mrsk-green-roof-0005-1920w.webp",
+        "width": 1920,
+        "height": 1080,
+        "format": "webp",
+        "size_bytes": 345274,
+        "size_kb": 337.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-1920w.jpg",
+        "filename": "mrsk-green-roof-0005-1920w.jpg",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "size_bytes": 533698,
+        "size_kb": 521.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0005-original.jpg",
+        "filename": "mrsk-green-roof-0005-original.jpg",
+        "width": 3840,
+        "height": 2160,
+        "format": "jpg",
+        "size_bytes": 1316835,
+        "size_kb": 1286.0,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAH/xAAsEAABAwEEBwkAAAAAAAAAAAABAAIDEQQTMUEFISIkQnGxEiMzQ1FhkcHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABgRAQEAAwAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwB7GtaSHOaZS3aIJoAmtljJBvY+HCR+WP75U+QiGyva+Vt+7af6knIcgkwTNaBU0pXAhYytnCLF8wV3hgqD5zszyTO27ASHXUg3h+2qDJI0kUI1e602W2WiTuI5nl3ABKQKZhJujDpHxzzPVZghC6JHVS0Cd8kOd2eoQhQf/9k=",
+    "lqip_dims": [
+      32,
+      18
+    ],
+    "original_dims": [
+      3840,
+      2160
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 8,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\BOW VALLEY 2012\\IMG_0509.JPG",
+    "target": "mrsk-green-roof-0006.jpg",
+    "alt": "Bow Valley commercial green roof, planting field",
+    "caption": "Bow Valley green roof \u2014 established sedum field and gravel service paths.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_0509.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-bottom"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-480w.avif",
+        "filename": "mrsk-green-roof-0006-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 40724,
+        "size_kb": 39.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-480w.webp",
+        "filename": "mrsk-green-roof-0006-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 49718,
+        "size_kb": 48.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-480w.jpg",
+        "filename": "mrsk-green-roof-0006-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 66016,
+        "size_kb": 64.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-768w.avif",
+        "filename": "mrsk-green-roof-0006-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 89383,
+        "size_kb": 87.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-768w.webp",
+        "filename": "mrsk-green-roof-0006-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 109514,
+        "size_kb": 106.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-768w.jpg",
+        "filename": "mrsk-green-roof-0006-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 152595,
+        "size_kb": 149.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-1280w.avif",
+        "filename": "mrsk-green-roof-0006-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 204146,
+        "size_kb": 199.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-1280w.webp",
+        "filename": "mrsk-green-roof-0006-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 257190,
+        "size_kb": 251.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-1280w.jpg",
+        "filename": "mrsk-green-roof-0006-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 374809,
+        "size_kb": 366.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-1920w.avif",
+        "filename": "mrsk-green-roof-0006-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 386511,
+        "size_kb": 377.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-1920w.webp",
+        "filename": "mrsk-green-roof-0006-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 492282,
+        "size_kb": 480.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-1920w.jpg",
+        "filename": "mrsk-green-roof-0006-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 754524,
+        "size_kb": 736.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-green-roof-0006-original.jpg",
+        "filename": "mrsk-green-roof-0006-original.jpg",
+        "width": 3264,
+        "height": 2448,
+        "format": "jpg",
+        "size_bytes": 2270616,
+        "size_kb": 2217.4,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAmEAACAQQBAgYDAAAAAAAAAAABAgMABBEhEgUxIjJhcYHRExSh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBMf/aAAwDAQACEQMRAD8Ate6a+cE4BwRxY1I64tpXKScOXmMSuu2zgZOCaybSxVgtwJmQK2CANj2rbSOMRKA5OvCexHqaNKXjieZhJdK8t2FEbMAFULjW1we/vUHTZbOS7jEX7LSDJBlA/tPlt2DkRz/lJGwCc/NTIZoJMopVhrxL91lZtwdPgmRw0ZZwO48q/NOubiCOcujtNIMaB8A+6KKURD9T4LgRqZMZJ2APTFRz3bzNykIz20O1FFFXX//Z",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      3264,
+      2448
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 9,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_0548.JPG",
+    "target": "mrsk-patio-0001.jpg",
+    "alt": "Residential paver patio with stone joints",
+    "caption": "Residential paver patio \u2014 interlocking pattern with mature plant beds at the edges.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_0548.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-480w.avif",
+        "filename": "mrsk-patio-0001-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 51842,
+        "size_kb": 50.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-480w.webp",
+        "filename": "mrsk-patio-0001-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 60984,
+        "size_kb": 59.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-480w.jpg",
+        "filename": "mrsk-patio-0001-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 72582,
+        "size_kb": 70.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-768w.avif",
+        "filename": "mrsk-patio-0001-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 133052,
+        "size_kb": 129.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-768w.webp",
+        "filename": "mrsk-patio-0001-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 154746,
+        "size_kb": 151.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-768w.jpg",
+        "filename": "mrsk-patio-0001-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 183906,
+        "size_kb": 179.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-1280w.avif",
+        "filename": "mrsk-patio-0001-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 352735,
+        "size_kb": 344.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-1280w.webp",
+        "filename": "mrsk-patio-0001-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 414264,
+        "size_kb": 404.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-1280w.jpg",
+        "filename": "mrsk-patio-0001-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 494695,
+        "size_kb": 483.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-1920w.avif",
+        "filename": "mrsk-patio-0001-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 716805,
+        "size_kb": 700.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-1920w.webp",
+        "filename": "mrsk-patio-0001-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 841860,
+        "size_kb": 822.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-1920w.jpg",
+        "filename": "mrsk-patio-0001-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 1036643,
+        "size_kb": 1012.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0001-original.jpg",
+        "filename": "mrsk-patio-0001-original.jpg",
+        "width": 3264,
+        "height": 2448,
+        "format": "jpg",
+        "size_bytes": 3065366,
+        "size_kb": 2993.5,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAJRAAAgEDBAIBBQAAAAAAAAAAAQIDABEhBAUSMUFhE1FicYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQADAQAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwDe3WUQ6Yhw/BnUOyjoVzrTKsjm7Hl5fs5rY3jeNIIfjRoplkBDXF7Hxb3WFKy6qY/GwI43B+pArPPpiEwsb3NjVds+L01JS2G/YNQdADgY9VlZpS7qdPt41UKLIvA5cknHqq8UJSWcxMCpKi3YC0UVfgL1YsEmUfa35HX8paPcYODRRTlOF//Z",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      3264,
+      2448
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 10,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_1587.JPG",
+    "target": "mrsk-patio-0002.jpg",
+    "alt": "Paver patio pattern with adjacent plant beds",
+    "caption": "Patio paver pattern with carefully aligned joint lines and adjacent plant beds.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_1587.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-480w.avif",
+        "filename": "mrsk-patio-0002-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 42832,
+        "size_kb": 41.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-480w.webp",
+        "filename": "mrsk-patio-0002-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 50900,
+        "size_kb": 49.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-480w.jpg",
+        "filename": "mrsk-patio-0002-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 64886,
+        "size_kb": 63.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-768w.avif",
+        "filename": "mrsk-patio-0002-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 104423,
+        "size_kb": 102.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-768w.webp",
+        "filename": "mrsk-patio-0002-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 123926,
+        "size_kb": 121.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-768w.jpg",
+        "filename": "mrsk-patio-0002-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 159059,
+        "size_kb": 155.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-1280w.avif",
+        "filename": "mrsk-patio-0002-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 264571,
+        "size_kb": 258.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-1280w.webp",
+        "filename": "mrsk-patio-0002-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 318630,
+        "size_kb": 311.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-1280w.jpg",
+        "filename": "mrsk-patio-0002-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 415004,
+        "size_kb": 405.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-1920w.avif",
+        "filename": "mrsk-patio-0002-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 519717,
+        "size_kb": 507.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-1920w.webp",
+        "filename": "mrsk-patio-0002-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 632844,
+        "size_kb": 618.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-1920w.jpg",
+        "filename": "mrsk-patio-0002-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 856725,
+        "size_kb": 836.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0002-original.jpg",
+        "filename": "mrsk-patio-0002-original.jpg",
+        "width": 3264,
+        "height": 2448,
+        "format": "jpg",
+        "size_bytes": 2581063,
+        "size_kb": 2520.6,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EACgQAAIBAwQABAcAAAAAAAAAAAECAwAEEQUSITFBUWGRExQiI0Jx4f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEBAQABBQAAAAAAAAAAAAAAAAECAxESMUH/2gAMAwEAAhEDEQA/AM47eRcZdRgdBqNcQyIzMGUEjj7gyKclwitlySMEHHYzx70EaXIVZ42Sb6gFbOBj1Hgf3UsLy7GNrFRJG0czS7FYFQhBwT5Cs5bmy2qDJOGHe6Px966Om2MlpNH8Vlbe4OFHWATRNR0yW5kDKqoMH8Tz61QtmLHBxT7i2nj06GKCNjLK29yo64/tVVS0p6MLtvmIUXdEzELjinqMrny7BqqqtJ//2Q==",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      3264,
+      2448
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 11,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_2058.JPG",
+    "target": "mrsk-patio-0003.jpg",
+    "alt": "Retaining wall with step risers and planting",
+    "caption": "Stone retaining wall with step risers, integrating plant beds into the hardscape.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_2058.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-480w.avif",
+        "filename": "mrsk-patio-0003-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 51455,
+        "size_kb": 50.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-480w.webp",
+        "filename": "mrsk-patio-0003-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 61394,
+        "size_kb": 60.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-480w.jpg",
+        "filename": "mrsk-patio-0003-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 74137,
+        "size_kb": 72.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-768w.avif",
+        "filename": "mrsk-patio-0003-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 118251,
+        "size_kb": 115.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-768w.webp",
+        "filename": "mrsk-patio-0003-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 142750,
+        "size_kb": 139.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-768w.jpg",
+        "filename": "mrsk-patio-0003-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 175595,
+        "size_kb": 171.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-1280w.avif",
+        "filename": "mrsk-patio-0003-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 272638,
+        "size_kb": 266.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-1280w.webp",
+        "filename": "mrsk-patio-0003-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 330022,
+        "size_kb": 322.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-1280w.jpg",
+        "filename": "mrsk-patio-0003-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 434391,
+        "size_kb": 424.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-1920w.avif",
+        "filename": "mrsk-patio-0003-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 507150,
+        "size_kb": 495.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-1920w.webp",
+        "filename": "mrsk-patio-0003-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 631062,
+        "size_kb": 616.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-1920w.jpg",
+        "filename": "mrsk-patio-0003-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 866166,
+        "size_kb": 845.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0003-original.jpg",
+        "filename": "mrsk-patio-0003-original.jpg",
+        "width": 3264,
+        "height": 2448,
+        "format": "jpg",
+        "size_bytes": 2539127,
+        "size_kb": 2479.6,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQIF/8QAJxAAAgECBQMEAwAAAAAAAAAAAQIDAAQREhMhIjFBcQUyUWFigZH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwDezvksZIZI112VWVgh3x/fis3Xq99cqQrGMdlXj/TXNs1aVm3K9/FVqkgI5BuoIDgeKNZAkASiHmVZmJxzb4Uq5nu44jnnXJ2Vfuq2jmBY5Pb+QwPiixWS+ZVTT6kEM2HSjWUJUK6SnMQD1HmnyZSupGOLbkfdFFSvcin1ypIAw+adb3bQMTHlUsN+IooqNbbf/9k=",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      3264,
+      2448
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 12,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_2732.JPG",
+    "target": "mrsk-patio-0004.jpg",
+    "alt": "Patio with retaining wall and adjacent plantings",
+    "caption": "Combined patio and retaining wall \u2014 paver pattern, stone courses, and adjacent plant beds.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_2732.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-bottom"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-480w.avif",
+        "filename": "mrsk-patio-0004-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 46374,
+        "size_kb": 45.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-480w.webp",
+        "filename": "mrsk-patio-0004-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 54434,
+        "size_kb": 53.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-480w.jpg",
+        "filename": "mrsk-patio-0004-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 69373,
+        "size_kb": 67.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-768w.avif",
+        "filename": "mrsk-patio-0004-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 107095,
+        "size_kb": 104.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-768w.webp",
+        "filename": "mrsk-patio-0004-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 124646,
+        "size_kb": 121.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-768w.jpg",
+        "filename": "mrsk-patio-0004-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 164116,
+        "size_kb": 160.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-1280w.avif",
+        "filename": "mrsk-patio-0004-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 258437,
+        "size_kb": 252.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-1280w.webp",
+        "filename": "mrsk-patio-0004-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 304620,
+        "size_kb": 297.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-1280w.jpg",
+        "filename": "mrsk-patio-0004-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 415873,
+        "size_kb": 406.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-1920w.avif",
+        "filename": "mrsk-patio-0004-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 491994,
+        "size_kb": 480.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-1920w.webp",
+        "filename": "mrsk-patio-0004-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 593912,
+        "size_kb": 580.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-1920w.jpg",
+        "filename": "mrsk-patio-0004-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 838254,
+        "size_kb": 818.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-patio-0004-original.jpg",
+        "filename": "mrsk-patio-0004-original.jpg",
+        "width": 3264,
+        "height": 2448,
+        "format": "jpg",
+        "size_bytes": 2459915,
+        "size_kb": 2402.3,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAJBAAAgEEAQQCAwAAAAAAAAAAAQIDAAQREjEhIkFRExVhccH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAREjH/2gAMAwEAAhEDEQA/AGX2a2UM7iMg+POD+azXV3DfTQylGbMYVwBwQfFKJoZ9zlfkBydgc1zbPtuoV11GfPNSCREsaCVX+JwNvXNaBcYighHAIx+uf7S+/hkN26Rb67dveffSqICUlQuPYOfdVE7IZgevShWj2ZmDHYDI46iiis4pyeKGdQARHkg5BZs1S6xsxYwQ5bntoop7Mr//2Q==",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      3264,
+      2448
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 13,
+    "category": "fence",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\08 fence\\IMG_0437.JPEG",
+    "target": "mrsk-fence-0001.jpg",
+    "alt": "Wooden fence detail with adjacent plantings",
+    "caption": "Residential wooden fence \u2014 board pattern, post caps, and adjacent shrubs.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_0437.JPEG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-480w.avif",
+        "filename": "mrsk-fence-0001-480w.avif",
+        "width": 480,
+        "height": 640,
+        "format": "avif",
+        "size_bytes": 93488,
+        "size_kb": 91.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-480w.webp",
+        "filename": "mrsk-fence-0001-480w.webp",
+        "width": 480,
+        "height": 640,
+        "format": "webp",
+        "size_bytes": 106252,
+        "size_kb": 103.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-480w.jpg",
+        "filename": "mrsk-fence-0001-480w.jpg",
+        "width": 480,
+        "height": 640,
+        "format": "jpg",
+        "size_bytes": 128909,
+        "size_kb": 125.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-768w.avif",
+        "filename": "mrsk-fence-0001-768w.avif",
+        "width": 768,
+        "height": 1024,
+        "format": "avif",
+        "size_bytes": 247898,
+        "size_kb": 242.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-768w.webp",
+        "filename": "mrsk-fence-0001-768w.webp",
+        "width": 768,
+        "height": 1024,
+        "format": "webp",
+        "size_bytes": 282164,
+        "size_kb": 275.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-768w.jpg",
+        "filename": "mrsk-fence-0001-768w.jpg",
+        "width": 768,
+        "height": 1024,
+        "format": "jpg",
+        "size_bytes": 336562,
+        "size_kb": 328.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-1280w.avif",
+        "filename": "mrsk-fence-0001-1280w.avif",
+        "width": 1280,
+        "height": 1707,
+        "format": "avif",
+        "size_bytes": 685639,
+        "size_kb": 669.6
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-1280w.webp",
+        "filename": "mrsk-fence-0001-1280w.webp",
+        "width": 1280,
+        "height": 1707,
+        "format": "webp",
+        "size_bytes": 783458,
+        "size_kb": 765.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-1280w.jpg",
+        "filename": "mrsk-fence-0001-1280w.jpg",
+        "width": 1280,
+        "height": 1707,
+        "format": "jpg",
+        "size_bytes": 927062,
+        "size_kb": 905.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-1920w.avif",
+        "filename": "mrsk-fence-0001-1920w.avif",
+        "width": 1920,
+        "height": 2560,
+        "format": "avif",
+        "size_bytes": 1410838,
+        "size_kb": 1377.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-1920w.webp",
+        "filename": "mrsk-fence-0001-1920w.webp",
+        "width": 1920,
+        "height": 2560,
+        "format": "webp",
+        "size_bytes": 1641256,
+        "size_kb": 1602.8
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-1920w.jpg",
+        "filename": "mrsk-fence-0001-1920w.jpg",
+        "width": 1920,
+        "height": 2560,
+        "format": "jpg",
+        "size_bytes": 1954027,
+        "size_kb": 1908.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0001-original.jpg",
+        "filename": "mrsk-fence-0001-original.jpg",
+        "width": 3024,
+        "height": 4032,
+        "format": "jpg",
+        "size_bytes": 5109631,
+        "size_kb": 4989.9,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAIDBf/EACcQAAICAQQBAQkAAAAAAAAAAAECAxEABBIhMUEFFCIyUWFicYGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EAB0RAAIBBAMAAAAAAAAAAAAAAAABEQIDEiETMUH/2gAMAwEAAhEDEQA/AGExKCfer9ZDM22tzt/BirL6vq3bdDPIim+AfN5muu1b6yONp5NjMti++sXcjs5QMBU83YwzQxlpgZZNvVd8YZLvrwriYuajTzwyhJXErAdqtCskBvaUbaaBHjOs5ilAaKx9pN0PpkqtYYTszWynPqHeN1V2BPR3dYZam0yTc/C/zHn84Y4tA6qj/9k=",
+    "lqip_dims": [
+      24,
+      32
+    ],
+    "original_dims": [
+      3024,
+      4032
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 14,
+    "category": "fence",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\08 fence\\IMG_2077.JPG",
+    "target": "mrsk-fence-0002.jpg",
+    "alt": "Wooden fence with shadow lines",
+    "caption": "Residential fence \u2014 board lines and shadow detail along a finished landscape.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_2077.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-480w.avif",
+        "filename": "mrsk-fence-0002-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 39602,
+        "size_kb": 38.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-480w.webp",
+        "filename": "mrsk-fence-0002-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 48362,
+        "size_kb": 47.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-480w.jpg",
+        "filename": "mrsk-fence-0002-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 62475,
+        "size_kb": 61.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-768w.avif",
+        "filename": "mrsk-fence-0002-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 93514,
+        "size_kb": 91.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-768w.webp",
+        "filename": "mrsk-fence-0002-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 113972,
+        "size_kb": 111.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-768w.jpg",
+        "filename": "mrsk-fence-0002-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 150214,
+        "size_kb": 146.7
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-1280w.avif",
+        "filename": "mrsk-fence-0002-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 224721,
+        "size_kb": 219.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-1280w.webp",
+        "filename": "mrsk-fence-0002-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 280056,
+        "size_kb": 273.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-1280w.jpg",
+        "filename": "mrsk-fence-0002-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 382979,
+        "size_kb": 374.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-1920w.avif",
+        "filename": "mrsk-fence-0002-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 434673,
+        "size_kb": 424.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-1920w.webp",
+        "filename": "mrsk-fence-0002-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 541826,
+        "size_kb": 529.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-1920w.jpg",
+        "filename": "mrsk-fence-0002-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 782608,
+        "size_kb": 764.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0002-original.jpg",
+        "filename": "mrsk-fence-0002-original.jpg",
+        "width": 3264,
+        "height": 2448,
+        "format": "jpg",
+        "size_bytes": 2368651,
+        "size_kb": 2313.1,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QAKBAAAQQABAMJAAAAAAAAAAAAAQACAxEFEiFRBCIxI0FDYWJyobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAQEAAwEAAAAAAAAAAAAAAAEAAhESIf/aAAwDAQACEQMRAD8A2IsWjcOZ7QemppSMUbd52UfUstkWHAjNPKQBR7Osx36pWR0fhgtG16rNzSsxGtx7F5ZmDh4Iw4WHGS9FzE7JjzPc4k7LbmlJkGUuHKe9VvlsFokN7I7nxMsZGQMzaPuUOYzqB8oQjRKVfpN5ZT9pd+r3Xv8AiEKE02h7f//Z",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      3264,
+      2448
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  },
+  {
+    "rank": 15,
+    "category": "fence",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\08 fence\\IMG_4843.JPEG",
+    "target": "mrsk-fence-0003.jpg",
+    "alt": "Residential wooden fence with post caps",
+    "caption": "Residential wooden fence with post caps and trim, integrated with mature plantings.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_4843.JPEG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-bottom"
+    },
+    "variants_generated": [
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-480w.avif",
+        "filename": "mrsk-fence-0003-480w.avif",
+        "width": 480,
+        "height": 360,
+        "format": "avif",
+        "size_bytes": 62739,
+        "size_kb": 61.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-480w.webp",
+        "filename": "mrsk-fence-0003-480w.webp",
+        "width": 480,
+        "height": 360,
+        "format": "webp",
+        "size_bytes": 71692,
+        "size_kb": 70.0
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-480w.jpg",
+        "filename": "mrsk-fence-0003-480w.jpg",
+        "width": 480,
+        "height": 360,
+        "format": "jpg",
+        "size_bytes": 83154,
+        "size_kb": 81.2
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-768w.avif",
+        "filename": "mrsk-fence-0003-768w.avif",
+        "width": 768,
+        "height": 576,
+        "format": "avif",
+        "size_bytes": 170113,
+        "size_kb": 166.1
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-768w.webp",
+        "filename": "mrsk-fence-0003-768w.webp",
+        "width": 768,
+        "height": 576,
+        "format": "webp",
+        "size_bytes": 192860,
+        "size_kb": 188.3
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-768w.jpg",
+        "filename": "mrsk-fence-0003-768w.jpg",
+        "width": 768,
+        "height": 576,
+        "format": "jpg",
+        "size_bytes": 221622,
+        "size_kb": 216.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-1280w.avif",
+        "filename": "mrsk-fence-0003-1280w.avif",
+        "width": 1280,
+        "height": 960,
+        "format": "avif",
+        "size_bytes": 479788,
+        "size_kb": 468.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-1280w.webp",
+        "filename": "mrsk-fence-0003-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "format": "webp",
+        "size_bytes": 544174,
+        "size_kb": 531.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-1280w.jpg",
+        "filename": "mrsk-fence-0003-1280w.jpg",
+        "width": 1280,
+        "height": 960,
+        "format": "jpg",
+        "size_bytes": 624050,
+        "size_kb": 609.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-1920w.avif",
+        "filename": "mrsk-fence-0003-1920w.avif",
+        "width": 1920,
+        "height": 1440,
+        "format": "avif",
+        "size_bytes": 1033615,
+        "size_kb": 1009.4
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-1920w.webp",
+        "filename": "mrsk-fence-0003-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "format": "webp",
+        "size_bytes": 1188382,
+        "size_kb": 1160.5
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-1920w.jpg",
+        "filename": "mrsk-fence-0003-1920w.jpg",
+        "width": 1920,
+        "height": 1440,
+        "format": "jpg",
+        "size_bytes": 1363910,
+        "size_kb": 1331.9
+      },
+      {
+        "path": "F:\\projects\\Marisk.ca\\site\\frontend\\public\\images\\gallery-final\\mrsk-fence-0003-original.jpg",
+        "filename": "mrsk-fence-0003-original.jpg",
+        "width": 4032,
+        "height": 3024,
+        "format": "jpg",
+        "size_bytes": 6025826,
+        "size_kb": 5884.6,
+        "role": "lightbox-original"
+      }
+    ],
+    "lqip_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBAEG/8QAJhAAAgIBAgYBBQAAAAAAAAAAAQIAAxEhMQQFEiJBUYFCcZGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABoRAQEAAgMAAAAAAAAAAAAAAAEAAkEREiH/2gAMAwEAAhEDEQA/AK3MCW4JgCdWX+yEbnZuhurtOoHj5mvnNxekVoHDK4J/B9SKH3ByD+5Kex15qJuCgA5yfqi+IvQEMTltt5jufFhU5007vMT1BnAbUesyTHcBu9FZeDaSN/YJi2FbEsUGfJxCEwyyVpW6VqK61qT9ol66t1QD4hCAsX//2Q==",
+    "lqip_dims": [
+      32,
+      24
+    ],
+    "original_dims": [
+      4032,
+      3024
+    ],
+    "source_kind_used": "original",
+    "responsive_variants_actual": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_actual": [
+      "avif",
+      "jpg",
+      "webp"
+    ],
+    "slot03_processed": true
+  }
+]

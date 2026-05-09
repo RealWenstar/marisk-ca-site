@@ -1,0 +1,108 @@
+/*
+ * Marisk Design Tokens — canonical source of truth
+ * Slot 07 SITE PHASE 1 · 2026-05-08
+ *
+ * No external font CDN. No Google Fonts. System font stacks only.
+ * Existing palette in styles.css is preserved for backward compatibility;
+ * future components should reference the canonical names below.
+ */
+
+:root {
+  /* ---- Palette ---------------------------------------------------------- */
+  /* Primary nature green — Marisk identity. */
+  --color-primary: #28533d;          /* forest */
+  --color-primary-soft: #6d7e55;     /* moss   */
+
+  /* Contrast / dark ink. */
+  --color-ink: #17201a;
+  --color-ink-muted: rgba(23, 32, 26, 0.68);
+  --color-ink-line: rgba(23, 32, 26, 0.14);
+
+  /* Accent — for CTAs, hover, badges. */
+  --color-accent: #b66f3b;           /* copper */
+  --color-accent-cool: #496d78;      /* water  */
+
+  /* Neutral surfaces. */
+  --color-bg: #f4f2ec;
+  --color-bg-soft: #fbfaf6;
+  --color-surface: rgba(255, 255, 255, 0.78);
+  --color-stone: #d8d5ca;
+
+  /* ---- Typography ------------------------------------------------------- */
+  /* System stacks — render fast, no network dependency, no GDPR/PIPEDA risk. */
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, sans-serif;
+  --font-serif:
+    Georgia, "Times New Roman", "Iowan Old Style", "Apple Garamond",
+    Baskerville, "Droid Serif", serif;
+  --font-mono:
+    ui-monospace, SFMono-Regular, "Cascadia Mono", Menlo, Consolas,
+    "Liberation Mono", monospace;
+
+  --font-body: var(--font-sans);
+  --font-display: var(--font-serif);
+
+  /* Type scale (perfect-fourth, gentle). */
+  --fs-xs: 0.75rem;     /* 12 */
+  --fs-sm: 0.875rem;    /* 14 */
+  --fs-base: 1rem;      /* 16 */
+  --fs-md: 1.125rem;    /* 18 */
+  --fs-lg: 1.375rem;    /* 22 */
+  --fs-xl: 1.875rem;    /* 30 */
+  --fs-2xl: 2.5rem;     /* 40 */
+  --fs-3xl: 3.5rem;     /* 56 */
+  --fs-hero: clamp(2.5rem, 4.5vw + 1rem, 4.75rem);
+
+  --lh-tight: 1.15;
+  --lh-snug: 1.3;
+  --lh-normal: 1.5;
+  --lh-loose: 1.7;
+
+  --letter-tight: -0.01em;
+  --letter-display: -0.015em;
+  --letter-eyebrow: 0.16em;
+
+  /* ---- Spacing scale (4 / 8 / 16 / 32 / 64) ----------------------------- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 32px;
+  --space-5: 64px;
+  --space-6: 128px;
+
+  /* ---- Layout / shape -------------------------------------------------- */
+  --radius-sm: 4px;
+  --radius: 8px;
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 4px 14px rgba(20, 29, 23, 0.08);
+  --shadow: 0 24px 58px rgba(20, 29, 23, 0.16);
+  --shadow-lg: 0 40px 96px rgba(20, 29, 23, 0.22);
+
+  --content-max: 1200px;
+  --content-pad-x: clamp(1rem, 4vw, 4rem);
+
+  /* ---- Motion ---------------------------------------------------------- */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 160ms;
+  --dur: 240ms;
+  --dur-slow: 480ms;
+}
+
+/* ---- Breakpoints (custom-media-style hint; CSS variables can't drive
+ *      @media queries, so mirror in @media when used).
+ *      Mobile  : <  640px
+ *      Tablet  : >= 640px and < 1024px
+ *      Desktop : >= 1024px
+ * ---------------------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur: 0ms;
+    --dur-slow: 0ms;
+  }
+}

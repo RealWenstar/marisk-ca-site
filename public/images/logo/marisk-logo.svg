@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" role="img" aria-label="Marisk Services Incorporated">
+  <title>Marisk Services Inc.</title>
+  <desc>Wordmark — MARISK in condensed bold lime-green over SERVICES INCORPORATED in spaced white. Remaster of the 2003 – 2025 Marisk Services Inc. logo, transparent background for use on dark headers.</desc>
+  <style>
+    .marisk-mark {
+      font-family: "Impact", "Haettenschweiler", "Arial Narrow Bold",
+        "Bebas Neue", "Oswald", "Helvetica Condensed", sans-serif;
+      font-weight: 700;
+      font-size: 180px;
+      letter-spacing: -2px;
+      fill: #bfe14a;
+    }
+    .marisk-tag {
+      font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+        Arial, sans-serif;
+      font-weight: 500;
+      font-size: 22px;
+      letter-spacing: 6.5px;
+      fill: #fbfaf6;
+    }
+    .marisk-rule {
+      fill: #bfe14a;
+    }
+  </style>
+  <text class="marisk-mark" x="300" y="142" text-anchor="middle">MARISK</text>
+  <text class="marisk-tag" x="300" y="186" text-anchor="middle">SERVICES INCORPORATED</text>
+  <rect class="marisk-rule" x="80" y="204" width="440" height="3" rx="1.5" />
+</svg>

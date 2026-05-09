@@ -1,0 +1,392 @@
+[
+  {
+    "rank": 1,
+    "category": "hero",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\foothills hospital (green roof and artificial grass)\\IMG_3736.JPG",
+    "target": "mrsk-hero-0001.jpg",
+    "alt": "Foothills Hospital commercial green roof, mature sedum plantings",
+    "caption": "Foothills Hospital green roof \u2014 one of Marisk's signature commercial installations, with mature sedum and gravel service paths.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_3736.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "hero"
+    }
+  },
+  {
+    "rank": 2,
+    "category": "hero",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\BOW VALLEY 2012\\Bow Valley 3.JPG",
+    "target": "mrsk-hero-0002.jpg",
+    "alt": "Bow Valley green roof, downtown Calgary skyline",
+    "caption": "Bow Valley green roof in downtown Calgary \u2014 rooftop sedum plantings against the city skyline.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "Bow Valley 3.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "hero"
+    }
+  },
+  {
+    "rank": 3,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\foothills hospital (green roof and artificial grass)\\IMG_3262.JPG",
+    "target": "mrsk-green-roof-0001.jpg",
+    "alt": "Foothills Hospital commercial green roof, wide angle",
+    "caption": "Wide-angle view of the Foothills Hospital green roof, showing the planting field and gravel service paths.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_3262.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    }
+  },
+  {
+    "rank": 4,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\foothills hospital (green roof and artificial grass)\\IMG_3800.JPG",
+    "target": "mrsk-green-roof-0002.jpg",
+    "alt": "Foothills Hospital green roof, alternate angle",
+    "caption": "Alternate angle of the Foothills Hospital green roof \u2014 sedum mat texture and rooftop hardware.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_3800.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    }
+  },
+  {
+    "rank": 5,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\BOW VALLEY 2012\\IMG_1108.JPG",
+    "target": "mrsk-green-roof-0003.jpg",
+    "alt": "Bow Valley commercial green roof, urban setting",
+    "caption": "Bow Valley green roof, different season \u2014 sedum plantings against downtown infrastructure.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_1108.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    }
+  },
+  {
+    "rank": 6,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\Green roof  Peter Lougheed Hospital\\Green roof. P.L. Hospital.jpg",
+    "target": "mrsk-green-roof-0004.jpg",
+    "alt": "Peter Lougheed Hospital commercial green roof installation",
+    "caption": "Peter Lougheed Hospital green roof \u2014 sedum plantings around service hatches and building facade.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "Green roof. P.L. Hospital.jpg",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    }
+  },
+  {
+    "rank": 7,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\Special GreenRoof Projects (downtown and other)\\SAM_2077.jpg",
+    "target": "mrsk-green-roof-0005.jpg",
+    "alt": "Downtown Calgary commercial green roof, sedum planting",
+    "caption": "Downtown special-projects green roof \u2014 sedum plantings and rooftop hardware against Calgary skyline.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "SAM_2077.jpg",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    }
+  },
+  {
+    "rank": 8,
+    "category": "commercial_green_roof",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\03_commercial_green_roof\\BOW VALLEY 2012\\IMG_0509.JPG",
+    "target": "mrsk-green-roof-0006.jpg",
+    "alt": "Bow Valley commercial green roof, planting field",
+    "caption": "Bow Valley green roof \u2014 established sedum field and gravel service paths.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_0509.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-bottom"
+    }
+  },
+  {
+    "rank": 9,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_0548.JPG",
+    "target": "mrsk-patio-0001.jpg",
+    "alt": "Residential paver patio with stone joints",
+    "caption": "Residential paver patio \u2014 interlocking pattern with mature plant beds at the edges.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_0548.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    }
+  },
+  {
+    "rank": 10,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_1587.JPG",
+    "target": "mrsk-patio-0002.jpg",
+    "alt": "Paver patio pattern with adjacent plant beds",
+    "caption": "Patio paver pattern with carefully aligned joint lines and adjacent plant beds.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_1587.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    }
+  },
+  {
+    "rank": 11,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_2058.JPG",
+    "target": "mrsk-patio-0003.jpg",
+    "alt": "Retaining wall with step risers and planting",
+    "caption": "Stone retaining wall with step risers, integrating plant beds into the hardscape.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_2058.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    }
+  },
+  {
+    "rank": 12,
+    "category": "patio",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\04_patios_retaining_walls\\IMG_2732.JPG",
+    "target": "mrsk-patio-0004.jpg",
+    "alt": "Patio with retaining wall and adjacent plantings",
+    "caption": "Combined patio and retaining wall \u2014 paver pattern, stone courses, and adjacent plant beds.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_2732.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-bottom"
+    }
+  },
+  {
+    "rank": 13,
+    "category": "fence",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\08 fence\\IMG_0437.JPEG",
+    "target": "mrsk-fence-0001.jpg",
+    "alt": "Wooden fence detail with adjacent plantings",
+    "caption": "Residential wooden fence \u2014 board pattern, post caps, and adjacent shrubs.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_0437.JPEG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-top"
+    }
+  },
+  {
+    "rank": 14,
+    "category": "fence",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\08 fence\\IMG_2077.JPG",
+    "target": "mrsk-fence-0002.jpg",
+    "alt": "Wooden fence with shadow lines",
+    "caption": "Residential fence \u2014 board lines and shadow detail along a finished landscape.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_2077.JPG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-mid"
+    }
+  },
+  {
+    "rank": 15,
+    "category": "fence",
+    "source": "F:\\projects\\Marisk.ca\\marisk_gallery_select\\08 fence\\IMG_4843.JPEG",
+    "target": "mrsk-fence-0003.jpg",
+    "alt": "Residential wooden fence with post caps",
+    "caption": "Residential wooden fence with post caps and trim, integrated with mature plantings.",
+    "responsive_variants_planned": [
+      "480w",
+      "768w",
+      "1280w",
+      "1920w"
+    ],
+    "formats_planned": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "slot02": {
+      "filename": "IMG_4843.JPEG",
+      "privacy_status": "public-safe",
+      "raw_surrogate_path": null,
+      "requires_owner_followup": false,
+      "position_hint": "gallery-bottom"
+    }
+  }
+]

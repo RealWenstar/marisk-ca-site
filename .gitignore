@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build output (CI rebuilds this)
+dist/
+dist-new/
+dist-build-*/
+dist-2026-*/
+
+# Vite tmp + dev logs
+vite.config.js.timestamp-*.mjs
+vite-dev.*.out.log
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local env
+.env
+.env.local
+.env.*.local
+
+# Dead legacy media (replaced by mrsk-*.{avif,webp,jpg} in gallery-final/)
+public/media/
+public/images/gallery/intake-preview/
+
+# Workspace test scratch
+test_write
+test_mount.txt
+*.original-33mb

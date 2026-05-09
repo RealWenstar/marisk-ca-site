@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" role="img" aria-label="Marisk Services Incorporated">
+  <title>Marisk Services Inc. — boxed variant</title>
+  <desc>Boxed variant of the Marisk wordmark (lime-green MARISK on a near-black panel with a thin lime base rule). Use this when a self-contained logo block is needed (footer, splash, social-share image).</desc>
+  <defs>
+    <linearGradient id="marisk-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b110d" />
+      <stop offset="1" stop-color="#171f19" />
+    </linearGradient>
+  </defs>
+  <style>
+    .marisk-mark {
+      font-family: "Impact", "Haettenschweiler", "Arial Narrow Bold",
+        "Bebas Neue", "Oswald", "Helvetica Condensed", sans-serif;
+      font-weight: 700;
+      font-size: 180px;
+      letter-spacing: -2px;
+      fill: #bfe14a;
+    }
+    .marisk-tag {
+      font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+        Arial, sans-serif;
+      font-weight: 500;
+      font-size: 22px;
+      letter-spacing: 6.5px;
+      fill: #fbfaf6;
+    }
+    .marisk-rule {
+      fill: #bfe14a;
+    }
+  </style>
+  <rect width="600" height="220" fill="url(#marisk-bg)" />
+  <text class="marisk-mark" x="300" y="142" text-anchor="middle">MARISK</text>
+  <text class="marisk-tag" x="300" y="186" text-anchor="middle">SERVICES INCORPORATED</text>
+  <rect class="marisk-rule" x="0" y="214" width="600" height="6" />
+</svg>

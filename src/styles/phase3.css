@@ -1,0 +1,350 @@
+/*
+ * Phase 3 polish — 2026-05-08 night run, slot 10 + v2 rebuild same-day.
+ * Imported from styles.css after the legacy rules so it can override safely.
+ */
+
+/* ---------- Hero fade-in on mount -------------------------------------- */
+@keyframes hero-fade-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.hero-frame {
+  animation: hero-fade-in 360ms var(--ease-out, cubic-bezier(0.22, 1, 0.36, 1)) both;
+}
+
+/* ---------- Reveal stagger across siblings ---------------------------- */
+[data-reveal-group] > * {
+  opacity: 0;
+  transform: translateY(20px);
+  transition:
+    opacity 500ms var(--ease-out, cubic-bezier(0.22, 1, 0.36, 1)),
+    transform 500ms var(--ease-out, cubic-bezier(0.22, 1, 0.36, 1));
+}
+[data-reveal-group].is-visible > *:nth-child(1)  { transition-delay:   0ms; opacity: 1; transform: none; }
+[data-reveal-group].is-visible > *:nth-child(2)  { transition-delay:  50ms; opacity: 1; transform: none; }
+[data-reveal-group].is-visible > *:nth-child(3)  { transition-delay: 100ms; opacity: 1; transform: none; }
+[data-reveal-group].is-visible > *:nth-child(4)  { transition-delay: 150ms; opacity: 1; transform: none; }
+[data-reveal-group].is-visible > *:nth-child(5)  { transition-delay: 200ms; opacity: 1; transform: none; }
+[data-reveal-group].is-visible > *:nth-child(6)  { transition-delay: 250ms; opacity: 1; transform: none; }
+[data-reveal-group].is-visible > *:nth-child(n+7) { transition-delay: 300ms; opacity: 1; transform: none; }
+
+/* ---------- CTA hover micro-interaction ------------------------------- */
+.primary-action,
+.secondary-action {
+  transition:
+    transform 200ms var(--ease-out, cubic-bezier(0.22, 1, 0.36, 1)),
+    background-color 200ms ease,
+    border-color 200ms ease,
+    box-shadow 200ms ease;
+}
+.primary-action:hover {
+  transform: translateY(-2px) scale(1.02);
+  background: #c97c44;
+}
+.secondary-action:hover {
+  transform: translateY(-2px) scale(1.02);
+  background: rgba(251, 250, 246, 0.14);
+}
+
+/* ---------- Tap targets >= 44 x 44px --------------------------------- */
+.gallery-secondary-button,
+.contact-line,
+.primary-action,
+.secondary-action {
+  min-height: 44px;
+}
+
+/* ---------- Photo card -> opens lightbox cursor ----------------------- */
+.gallery-photo-card.is-clickable {
+  cursor: zoom-in;
+}
+.gallery-photo-card.is-clickable:focus-visible {
+  outline: 3px solid var(--color-accent, #b66f3b);
+  outline-offset: 2px;
+}
+
+/* ---------- Lightbox -------------------------------------------------- */
+.lightbox-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: grid;
+  place-items: center;
+  padding: clamp(0.5rem, 3vw, 2rem);
+  background: rgba(8, 13, 10, 0.92);
+  backdrop-filter: blur(6px);
+  animation: hero-fade-in 200ms ease both;
+}
+.lightbox-dialog {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto;
+  gap: 0.75rem;
+  width: min(100%, 1200px);
+  max-height: 100%;
+  color: #fbfaf6;
+}
+.lightbox-figure {
+  margin: 0;
+  display: grid;
+  gap: 0.85rem;
+  align-content: end;
+  max-height: 92svh;
+}
+.lightbox-img {
+  display: block;
+  width: 100%;
+  max-height: 76svh;
+  object-fit: contain;
+  border-radius: var(--radius, 8px);
+  background: rgba(255, 255, 255, 0.04);
+}
+.lightbox-caption {
+  display: grid;
+  gap: 0.35rem;
+  padding: 0.4rem 0.2rem 0.2rem;
+  font-size: 0.95rem;
+}
+.lightbox-caption-label {
+  color: rgba(255, 214, 170, 0.85);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.lightbox-caption strong {
+  font-family: var(--font-display, Georgia, serif);
+  font-size: clamp(1.1rem, 2.4vw, 1.5rem);
+  font-weight: 600;
+}
+.lightbox-caption p {
+  margin: 0;
+  color: rgba(251, 250, 246, 0.78);
+}
+.lightbox-counter {
+  color: rgba(251, 250, 246, 0.62);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.lightbox-close,
+.lightbox-nav {
+  position: absolute;
+  display: inline-grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(251, 250, 246, 0.14);
+  color: #fbfaf6;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  transition:
+    background-color 180ms ease,
+    transform 180ms ease;
+}
+.lightbox-close      { top: -0.25rem; right: -0.25rem; font-size: 1.6rem; }
+.lightbox-nav-prev   { left: -0.5rem; top: 50%; transform: translateY(-50%); }
+.lightbox-nav-next   { right: -0.5rem; top: 50%; transform: translateY(-50%); }
+.lightbox-close:hover,
+.lightbox-nav:hover,
+.lightbox-close:focus-visible,
+.lightbox-nav:focus-visible {
+  background: rgba(251, 250, 246, 0.26);
+  outline: none;
+}
+.lightbox-close:focus-visible,
+.lightbox-nav:focus-visible {
+  box-shadow: 0 0 0 3px rgba(255, 214, 170, 0.92);
+}
+@media (max-width: 720px) {
+  .lightbox-nav-prev { left: 0.25rem; }
+  .lightbox-nav-next { right: 0.25rem; }
+  .lightbox-close { top: 0.25rem; right: 0.25rem; }
+  .lightbox-img { max-height: 64svh; }
+}
+
+/* ===========================================================
+ * 2026-05-08 v2 rebuild — Bogdan-approved design pass
+ * =========================================================== */
+
+/* ---------- Hero <picture> positioning (replaces hero-video) ----------- */
+.hero-image {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+.hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 48%;
+  opacity: 0.92;
+  transform:
+    translate3d(0, calc(var(--hero-progress, 0) * -8%), 0)
+    scale(calc(1 + var(--hero-progress, 0) * 0.06));
+  transform-origin: center 60%;
+  transition: transform 60ms linear;
+  will-change: transform;
+}
+
+/* ---------- Hero readability — extra dark gradient under copy --------- */
+.hero-overlay-readability {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(120% 80% at 22% 58%, rgba(8, 13, 10, 0.68) 0%, rgba(8, 13, 10, 0.22) 48%, rgba(8, 13, 10, 0) 72%),
+    linear-gradient(180deg, rgba(8, 13, 10, 0.42) 0%, rgba(8, 13, 10, 0.18) 38%, rgba(8, 13, 10, 0.62) 100%);
+}
+
+/* ---------- Hero copy text-shadow for safety on busy photos ----------- */
+.hero-copy h1,
+.hero-subtitle,
+.hero-supporting,
+.hero-eyebrow,
+.hero-brand-name {
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.55), 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+.hero-subtitle   { color: rgba(251, 250, 246, 0.96) !important; }
+.hero-supporting { color: rgba(251, 250, 246, 0.84) !important; }
+
+/* ---------- Proof band — labels contrast bump ------------------------ */
+.proof-label {
+  color: rgba(251, 250, 246, 0.92) !important;
+  font-weight: 600;
+  letter-spacing: 0.18em !important;
+}
+.proof-item   { background: rgba(11, 17, 13, 0.52) !important; }
+.proof-item p { color: rgba(251, 250, 246, 0.88) !important; }
+
+/* ---------- Services section — DARK INVERSION (WCAG AA pass) ---------- */
+.services-section {
+  background:
+    linear-gradient(135deg, #1c3527 0%, #233f30 50%, #1a2c22 100%) !important;
+  color: #fbfaf6;
+}
+.services-section .section-heading h2     { color: #fbfaf6; }
+.services-section .section-heading p      { color: rgba(251, 250, 246, 0.82); }
+.services-section .section-kicker         { color: rgba(255, 214, 170, 0.92); }
+.services-section .service-row            { border-top-color: rgba(251, 250, 246, 0.16); }
+.services-section .service-row:last-child { border-bottom-color: rgba(251, 250, 246, 0.16); }
+.services-section .service-row h3         { color: #fbfaf6; }
+.services-section .service-row p          { color: rgba(251, 250, 246, 0.78); }
+.services-section .service-index          { color: rgba(255, 214, 170, 0.7); }
+
+/* ---------- Gallery photo card — <picture> wrapper sizing ------------- */
+.gallery-photo-card picture {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+}
+.gallery-photo-card picture img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  transition: transform 320ms ease;
+}
+.gallery-photo-card:hover picture img {
+  transform: scale(1.025);
+}
+
+/* ---------- Choice button finalist images — slight scale-on-hover ----- */
+.gallery-choice-button.is-visual::before { filter: brightness(0.94); }
+.gallery-choice-button.is-visual:hover::before,
+.gallery-choice-button.is-visual:focus-visible::before { filter: brightness(1.02); }
+
+/* ---------- Hero highlights — slight contrast bump on dark image ------ */
+.hero-highlight {
+  border-color: rgba(255, 255, 255, 0.32) !important;
+  background: rgba(8, 13, 10, 0.52) !important;
+  backdrop-filter: blur(6px);
+}
+
+/* ---------- Site brand logo — replaces text wordmark in header -------- */
+.site-brand {
+  flex-direction: row !important;
+  align-items: center;
+  gap: 0.85rem !important;
+  min-width: 0;
+}
+.site-brand-logo {
+  display: block;
+  height: clamp(40px, 5vw, 54px);
+  width: auto;
+  flex: 0 0 auto;
+  filter: drop-shadow(0 1px 6px rgba(0, 0, 0, 0.45));
+}
+.site-brand-label {
+  border-left: 1px solid rgba(255, 255, 255, 0.22);
+  padding-left: 0.85rem;
+  max-width: 22rem;
+  line-height: 1.25;
+}
+@media (max-width: 720px) {
+  .site-brand-label { display: none; }
+}
+
+/* ---------- Hero frame — single column (no inset on right) ------------ */
+.hero-frame {
+  grid-template-columns: minmax(0, 1fr) !important;
+  align-items: end;
+  min-height: min(46rem, calc(100svh - var(--header-height) - 8rem));
+}
+.hero-copy {
+  width: min(100%, 56rem);
+  padding-bottom: clamp(1rem, 4vw, 3rem);
+}
+
+.hero-section { min-height: 100svh; }
+
+/* ---------- Reduced-motion overrides ---------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .hero-frame      { animation: none; }
+  .hero-image img  { transform: none !important; transition: none !important; }
+  [data-reveal-group] > * {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+  .lightbox-backdrop { animation: none; }
+  .primary-action:hover,
+  .secondary-action:hover { transform: none; }
+}
+
+/* ---------- Optional dark-mode bias ----------------------------------- */
+@media (prefers-color-scheme: dark) {
+  :root { color-scheme: dark light; }
+  body {
+    background:
+      linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+      #14201a;
+  }
+  .gallery-section,
+  .story-section,
+  .gallery-explorer-shell {
+    background: #1c2922;
+    color: rgba(251, 250, 246, 0.92);
+  }
+  .gallery-panel,
+  .gallery-photo-card,
+  .gallery-choice-button {
+    background: rgba(255, 255, 255, 0.04);
+    color: rgba(251, 250, 246, 0.92);
+  }
+  .gallery-photo-card div p,
+  .section-heading p,
+  .split-copy p,
+  .story-copy p,
+  .gallery-stage-header p {
+    color: rgba(251, 250, 246, 0.74);
+  }
+}
